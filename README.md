@@ -1,9 +1,9 @@
-# docker-compose 3-tiers
+# docker-compose n-tiers
 
 
 ## Purpose
 
-This repo is a sample `docker-file` describing a classical 3-tiers architecture.
+This repo is a sample `docker-file` describing a classical multi-tiers architecture.
 
 ## Usage
 
